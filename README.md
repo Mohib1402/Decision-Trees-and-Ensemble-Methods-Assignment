@@ -5,18 +5,18 @@ This repository contains implementations and demonstrations of classic decision 
 ## Contents
 
 ### 1. **From-Scratch Implementations in Colab**
-   - [Gradient Boosting Machine (GBM)](link-to-colab)
-   - [Random Forest](link-to-colab)
-   - [AdaBoost](link-to-colab)
-   - [Decision Trees](link-to-colab)
+   - [Gradient Boosting Machine (GBM)](https://github.com/Mohib1402/Decision-Trees-and-Ensemble-Methods-Assignment/blob/main/ScratchGradientBoosting.ipynb)
+   - [Random Forest](https://github.com/Mohib1402/Decision-Trees-and-Ensemble-Methods-Assignment/blob/main/ScratchRandomForest.ipynb)
+   - [AdaBoost](https://github.com/Mohib1402/Decision-Trees-and-Ensemble-Methods-Assignment/blob/main/ScratchAdaBoost.ipynb)
+   - [Decision Trees](https://github.com/Mohib1402/Decision-Trees-and-Ensemble-Methods-Assignment/blob/main/ScratchDecisionTree.ipynb)
 
 ### 2. **Framework-Based Showcases in Colab**
    - **Gradient Boosting Classifiers**:
-     - [Gradient Boosting Classifiers Notebook](link-to-colab-classifiers)
+     - [Gradient Boosting Classifiers Notebook](https://github.com/Mohib1402/Decision-Trees-and-Ensemble-Methods-Assignment/blob/main/GBMClassifier.ipynb)
    - **Gradient Boosting Regression Techniques**:
-     - [Gradient Boosting Regression Notebook](link-to-colab-regression)
+     - [Gradient Boosting Regression Notebook](https://github.com/Mohib1402/Decision-Trees-and-Ensemble-Methods-Assignment/blob/main/GBRegression.ipynb)
    - **Gradient Boosting Ranking Techniques**:
-     - [Gradient Boosting Ranking Notebook](link-to-colab-ranking)
+     - [Gradient Boosting Ranking Notebook](https://github.com/Mohib1402/Decision-Trees-and-Ensemble-Methods-Assignment/blob/main/GBRanking.ipynb)
 
 ### 3. **Video Walkthrough**
    - [Watch the Walkthrough](link-to-video)
